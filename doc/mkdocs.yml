@@ -23,3 +23,5 @@ markdown_extensions:
   - smarty
   - admonition
   - pymdownx.snippets
+
+base_path: doc
